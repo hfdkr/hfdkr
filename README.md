@@ -1,5 +1,3 @@
-# 🚀 Task Flow
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A90E2,100:50E3C2"/>
 
 ## Technologies
