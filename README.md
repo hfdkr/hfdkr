@@ -5,15 +5,15 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 💻 Full-Stack Developer (Frontend + Backend)
-- 🎨 UI/UX & Frontend development enthusiast
-- ⚙️ Backend APIs & databases lover
-- 🐍 Python + Flask developer
-- 🌐 Node.js + Express developer
-- 🗄️ MySQL database experience
-- 🚀 Always learning & building real projects
+-  Full-Stack Developer (Frontend + Backend)
+-  UI/UX & Frontend development enthusiast
+-  Backend APIs & databases lover
+-  Python + Flask developer
+-  Node.js + Express developer
+-  MySQL database experience
+-  Always learning & building real projects
 
 ---
 
@@ -51,36 +51,6 @@
 <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white">
 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hfdkr&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hfdkr&theme=tokyonight" />
-</p>
-
-## 🚀 What I Build
-
-- Full-stack web applications
-- REST APIs
-- Authentication systems (JWT / sessions)
-- Responsive frontends
-- Database-driven applications
-- CRUD systems
-
----
-
-## 🎯 Current Goals
-
-- Master full-stack development
-- Build real-world production projects
-- Improve system design skills
-- Learn deployment (Vercel / Render / VPS)
 
 ---
 
