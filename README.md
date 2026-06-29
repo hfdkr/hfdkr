@@ -7,12 +7,9 @@
 
 ##  About Me
 
--  Full-Stack Developer (Frontend + Backend)
+-  Frontend Developer 
 -  UI/UX & Frontend development enthusiast
--  Backend APIs & databases lover
--  Python + Flask developer
--  Node.js + Express developer
--  MySQL database experience
+-  Python Developer
 -  Always learning & building real projects
 
 ---
