@@ -55,9 +55,5 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafidkarkouch5@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
-  <a href="tel:+212639675169">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phonepe&logoColor=white">
-  </a>
 </p>
 
