@@ -1,20 +1,22 @@
 <!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Frontend+Developer;Passionate+About+Web+Development;Always+Learning;Always+Building+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Front-End+Developer;Building+Modern+Web+Applications;Aspiring+Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
 
-##  About Me
+# 👋 About Me
 
--  Frontend Developer 
--  UI/UX & Frontend development enthusiast
--  Python Developer
--  Always learning & building real projects
+I'm an aspiring **Full-Stack Developer** currently focused on **Front-End Development**. I enjoy building modern, responsive, and user-friendly web applications while continuously improving my technical skills through real-world projects.
+
+- 💻 Front-End Developer
+- 🐍 Python Programmer
+- 🎨 Passionate about UI & Web Development
+- 🚀 Building projects and expanding my skills every day
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -27,17 +29,19 @@
 
 <br>
 
-<!-- Backend -->
+<!-- Programming -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 <br>
 
-<!-- Database & Tools -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <br>
 
-<!-- Design & Tools -->
+<!-- Design -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white">
@@ -46,14 +50,32 @@
 
 ---
 
-## Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/hafid-k/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+# 🎯 Current Goals
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hafidkarkouch5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+- 📚 Master Advanced JavaScript
+- ⚛️ Learn React
+- 🌐 Become a Full-Stack Developer
+- 💼 Secure a Front-End Internship
+- 🚀 Build impactful real-world projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hafid-k/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:hafidkarkouch5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
