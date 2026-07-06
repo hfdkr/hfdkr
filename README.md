@@ -1,14 +1,8 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Hafid</h1>
-
+<!-- HEADER ANIMATION -->
 <p align="center">
-Front-End Developer • Aspiring Full-Stack Developer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Front-End+Developer;Building+Modern+Web+Applications;Aspiring+Full-Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
-
-<p align="center">
-Building modern, responsive, and user-friendly web applications.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
