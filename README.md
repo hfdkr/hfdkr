@@ -114,32 +114,6 @@ const hafid = {
 
 ---
 
-<!-- ==================== 3D CONTRIBUTIONS ==================== -->
-## 🌐 Contributions in 3D
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-  </picture>
-</div>
-
----
-
-<!-- ==================== SNAKE ==================== -->
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake.svg" alt="snake animation" />
-  </picture>
-</div>
-
----
-
 <!-- ==================== STATS ==================== -->
 ## 📊 GitHub Stats
 
