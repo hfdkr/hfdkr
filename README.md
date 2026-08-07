@@ -78,42 +78,6 @@ const hafid = {
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hfdkr/CODE-ARENA1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=CODE-ARENA1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-<a href="https://github.com/hfdkr/Task_Flow">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Task_Flow&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-<a href="https://github.com/hfdkr/Ecommerce-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Ecommerce-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-<a href="https://github.com/hfdkr/Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-<a href="https://github.com/hfdkr/store-1">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=store-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-<a href="https://github.com/hfdkr/E-tutor-project">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=E-tutor-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/hfdkr?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2038%20repositories-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117" />
-  </a>
-</div>
-
----
-
 <!-- ==================== STATS ==================== -->
 ## 📊 GitHub Stats
 
