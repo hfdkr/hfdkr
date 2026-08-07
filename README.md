@@ -1,136 +1,204 @@
-<!-- ============ HEADER ANIMÉ ============ -->
+<!-- ==================== HEADER ==================== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Lahoucine%20(Ali)&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%7C%20Automation%20%7C%20MLOps&descAlignY=58&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=Hafid%20Karkouch&fontSize=52&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Python&descSize=18&descAlignY=56&descAlign=50" />
 </div>
 
-<!-- ============ TYPING SVG ============ -->
+<!-- ==================== TYPING ==================== -->
 <div align="center">
-  <a href="https://github.com/hfdkr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+%26+Automation+Engineer;CI%2FCD+%7C+GitLab+%7C+Ansible+%7C+Terraform;Infrastructure+as+Code+enthusiast;Always+learning+MLOps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Front-End+Developer;Aspiring+Full-Stack+Developer;Python+Programmer;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
+
+<!-- ==================== BADGES ==================== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="views" />
+  <a href="https://github.com/hfdkr?tab=followers">
+    <img src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0F0C29" alt="followers" />
   </a>
-</div>
-
-<!-- ============ BADGES ============ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0F2027" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20MLOps-36BCF7?style=for-the-badge&labelColor=0F2027" alt="focus" />
+  <img src="https://img.shields.io/badge/Repos-38-00F7FF?style=for-the-badge&labelColor=0F0C29" alt="repos" />
+  <img src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-00F7FF?style=for-the-badge&labelColor=0F0C29" alt="open to work" />
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
-<img align="right" width="330" src="https://raw.githubusercontent.com/gist/RajputWaseem/9b7b6f7b0ff2b3a5b0f4bd57f5ca5ba0/raw/coding.gif" alt="coding" />
+<!-- ==================== ABOUT ==================== -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Lahoucine (Ali)
-role: DevOps & Automation Engineer
-stack:
-  - CI/CD pipelines (GitLab CI, GitHub Actions)
-  - Configuration management (Ansible)
-  - Containers & orchestration (Docker, Kubernetes)
-  - Observability (Prometheus, Grafana, ELK)
-currently_learning: [MLOps, Terraform, Cloud Architecture]
-motto: "Automate everything that runs twice."
+```js
+const hafid = {
+  role:      "Front-End Developer",
+  goal:      "Full-Stack Developer",
+  languages: ["JavaScript", "Python", "HTML", "CSS"],
+  frontend:  ["Tailwind CSS", "Bootstrap"],
+  design:    ["Figma", "Photoshop", "Webflow"],
+  tools:     ["Git", "GitHub", "Linux", "VS Code"],
+  learning:  ["Advanced JavaScript", "React"],
+  seeking:   "Front-End Internship",
+  motto:     "Design it. Build it. Ship it."
+};
 ```
 
-- 🔧 I build **pipelines**, not manual steps
-- 🤖 I love **Infrastructure as Code** and reproducible environments
-- 📊 Interested in **data engineering** and **MLOps**
-- 💬 Ask me about **GitLab CI, Ansible, Docker, monitoring**
+- 💻 I build **modern, responsive web interfaces**
+- 🎨 Passionate about **UI/UX** — pixel-perfect and accessible
+- 🐍 I write **Python** for scripting and automation
+- 🌱 Currently mastering **Advanced JavaScript** and **React**
+- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, Figma**
 
 <br clear="right"/>
 
 ---
 
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,kubernetes,ansible,terraform,gitlab,github,githubactions&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,nginx,postgres,mysql,redis,git,vscode,vim&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css,fastapi,flask,aws&theme=dark" />
+
+**Front-End**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
+
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,webflow&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+
+**Learning Next**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
+
 </div>
 
 ---
 
-<!-- ============ 3D CONTRIBUTION CALENDAR ============ -->
-## 🌐 My Contributions in 3D
+<!-- ==================== PROJECTS ==================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hfdkr/CODE-ARENA1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=CODE-ARENA1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+<a href="https://github.com/hfdkr/Task_Flow">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Task_Flow&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/hfdkr/Ecommerce-project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Ecommerce-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+<a href="https://github.com/hfdkr/Portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+<a href="https://github.com/hfdkr/store-1">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=store-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+<a href="https://github.com/hfdkr/E-tutor-project">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=E-tutor-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/hfdkr?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%2038%20repositories-00F7FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+  </a>
+</div>
+
+---
+
+<!-- ==================== 3D CONTRIBUTIONS ==================== -->
+## 🌐 Contributions in 3D
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
   </picture>
 </div>
 
 ---
 
-<!-- ============ SNAKE ANIMATION ============ -->
-## 🐍 Contribution Snake
+<!-- ==================== SNAKE ==================== -->
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake.svg" width="100%" alt="snake animation" />
+    <img width="100%" src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-snake.svg" alt="snake animation" />
   </picture>
 </div>
 
 ---
 
-<!-- ============ STATS ============ -->
-## 📈 GitHub Stats
+<!-- ==================== STATS ==================== -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hfdkr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfdkr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hfdkr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfdkr&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=hfdkr&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+  <img height="170" src="https://streak-stats.demolab.com?user=hfdkr&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hfdkr&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true" />
-</div>
-
----
-
-<!-- ============ TROPHIES ============ -->
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hfdkr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hfdkr&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true" />
 </div>
 
 ---
 
-<!-- ============ CONTACT ============ -->
-## 🤝 Connect
+<!-- ==================== TROPHIES ==================== -->
+## 🏆 Achievements
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <img src="https://github-profile-trophy.vercel.app/?username=hfdkr&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+<!-- ==================== CURRENT FOCUS ==================== -->
+## 🎯 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">⚙️<br/><b>Advanced JS</b><br/><sub>ES6+, async, DOM</sub></td>
+    <td align="center" width="25%">⚛️<br/><b>React</b><br/><sub>Components & hooks</sub></td>
+    <td align="center" width="25%">🎨<br/><b>Portfolio</b><br/><sub>Real-world projects</sub></td>
+    <td align="center" width="25%">💼<br/><b>Internship</b><br/><sub>Front-End role</sub></td>
+  </tr>
+</table>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hafid-k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/hfdkr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:hafidkarkouch5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/hfdkr">hfdkr</a></i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="0" />
+  <i>⭐ Thanks for visiting — feel free to explore my repos!</i>
 </div>
 
-<!-- ============ FOOTER ANIMÉ ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" />
+<!-- ==================== FOOTER ==================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=140&section=footer" />
