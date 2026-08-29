@@ -107,14 +107,6 @@ const hafid = {
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfdkr&layout=compact&theme=dark&hide_border=true&bg_color=1A1A2E&title_color=E94560&langs_count=8" />
 </div>
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=hfdkr&theme=dark&hide_border=true&background=1A1A2E&ring=E94560&fire=E94560&currStreakLabel=E94560" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=hfdkr&theme=react-dark&hide_border=true&bg_color=1A1A2E&color=E94560&line=E94560&point=FFFFFF&area=true" />
-</div>
-
 ---
 
 <!-- ==================== TROPHIES ==================== -->
