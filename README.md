@@ -99,16 +99,6 @@ const hafid = {
 
 ---
 
-<!-- ==================== STATS ==================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hfdkr&show_icons=true&theme=dark&hide_border=true&bg_color=1A1A2E&title_color=E94560&icon_color=E94560&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfdkr&layout=compact&theme=dark&hide_border=true&bg_color=1A1A2E&title_color=E94560&langs_count=8" />
-</div>
-
----
-
 <!-- ==================== TROPHIES ==================== -->
 ## 🏆 Achievements
 
