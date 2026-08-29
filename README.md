@@ -81,22 +81,6 @@ const hafid = {
 
 ---
 
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/hfdkr/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=REPO_NAME_1&theme=dark&hide_border=true&bg_color=1A1A2E&title_color=E94560&icon_color=E94560" />
-</a>
-<a href="https://github.com/hfdkr/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hfdkr&repo=REPO_NAME_2&theme=dark&hide_border=true&bg_color=1A1A2E&title_color=E94560&icon_color=E94560" />
-</a>
-
-<sub>✏️ Swap <code>REPO_NAME_1</code> / <code>REPO_NAME_2</code> for your two strongest repos to pin them here.</sub>
-
-</div>
-
 ---
 
 <!-- ==================== TROPHIES ==================== -->
