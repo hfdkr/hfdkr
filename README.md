@@ -99,19 +99,27 @@ const hafid = {
 
 <div align="center">
 
-**Front-End**
+### 🎨 Front-End
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
 
-**Programming**
+<br/>
+
+### 🐍 Programming
 <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
 
-**Design**
+<br/>
+
+### ✏️ Design
 <img src="https://skillicons.dev/icons?i=figma,ps,webflow&theme=dark" />
 
-**Tools**
+<br/>
+
+### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
-**Learning Next**
+<br/>
+
+### 🚀 Learning Next
 <img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
 
 </div>
