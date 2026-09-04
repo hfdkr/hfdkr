@@ -1,27 +1,78 @@
 <!-- ==================== HEADER ==================== -->
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Hafid%20Karkouch&fontSize=52&fontColor=E94560&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Python&descSize=18&descAlignY=56&descAlign=50" />
+
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Hafid%20Karkouch&fontSize=52&fontColor=E94560&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Python&descSize=18&descAlignY=56&descAlign=50"
+    alt="Hafid Karkouch"
+  />
+
 </div>
 
 <!-- ==================== TYPING ==================== -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Front-End+Developer;Aspiring+Full-Stack+Developer;Python+Programmer;Always+Learning+%26+Building" alt="Typing SVG" />
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hafid+%F0%9F%91%8B;Front-End+Developer;Aspiring+Full-Stack+Developer;Python+Programmer;Always+Learning+%26+Building"
+    alt="Typing SVG"
+  />
+
 </div>
 
 <!-- ==================== BADGES ==================== -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge" alt="views" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge"
+    alt="Profile Views"
+  />
+
   <a href="https://github.com/hfdkr?tab=followers">
-    <img src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=E94560&labelColor=1A1A2E" alt="followers" />
+    <img
+      src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=E94560&labelColor=1A1A2E"
+      alt="Followers"
+    />
   </a>
-  <img src="https://img.shields.io/badge/Repos-38-E94560?style=for-the-badge&labelColor=1A1A2E" alt="repos" />
-  <img src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E" alt="open to work" />
+
+  <img
+    src="https://img.shields.io/badge/Repos-38-E94560?style=for-the-badge&labelColor=1A1A2E"
+    alt="Repositories"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E"
+    alt="Open to Front-End Internship"
+  />
+
+</div>
+
+<br/>
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
 </div>
 
 <br/>
 
 <!-- ==================== ABOUT ==================== -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding" />
+
+<img
+  align="right"
+  width="340"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  alt="Coding"
+/>
 
 ## 👨‍💻 About Me
 
@@ -29,15 +80,15 @@ I'm a front-end developer who enjoys turning ideas into clean, responsive interf
 
 ```js
 const hafid = {
-  role:      "Front-End Developer",
-  goal:      "Full-Stack Developer",
+  role: "Front-End Developer",
+  goal: "Full-Stack Developer",
   languages: ["JavaScript", "Python", "HTML", "CSS"],
-  frontend:  ["Tailwind CSS", "Bootstrap"],
-  design:    ["Figma", "Photoshop", "Webflow"],
-  tools:     ["Git", "GitHub", "Linux", "VS Code"],
-  learning:  ["Advanced JavaScript", "React"],
-  seeking:   "Front-End Internship",
-  motto:     "Design it. Build it. Ship it."
+  frontend: ["Tailwind CSS", "Bootstrap"],
+  design: ["Figma", "Photoshop", "Webflow"],
+  tools: ["Git", "GitHub", "Linux", "VS Code"],
+  learning: ["Advanced JavaScript", "React"],
+  seeking: "Front-End Internship",
+  motto: "Design it. Build it. Ship it."
 };
 ```
 
@@ -53,37 +104,32 @@ const hafid = {
 ---
 
 <!-- ==================== TECH STACK ==================== -->
+
 ## ⚡ Tech Stack
 
 <div align="center">
 
 **Front-End**
-
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" />
 
 **Programming**
-
 <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
 
 **Design**
-
 <img src="https://skillicons.dev/icons?i=figma,ps,webflow&theme=dark" />
 
 **Tools**
-
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 **Learning Next**
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
 
 </div>
 
 ---
 
----
-
 <!-- ==================== TROPHIES ==================== -->
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -93,6 +139,7 @@ const hafid = {
 ---
 
 <!-- ==================== CURRENT FOCUS ==================== -->
+
 ## 🎯 Current Focus
 
 <table align="center">
@@ -107,6 +154,7 @@ const hafid = {
 ---
 
 <!-- ==================== CONNECT ==================== -->
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -125,4 +173,5 @@ const hafid = {
 </div>
 
 <!-- ==================== FOOTER ==================== -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:16213E,100:1A1A2E&height=140&section=footer" />
