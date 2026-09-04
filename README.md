@@ -22,31 +22,36 @@
 </div>
 <!-- ==================== BADGES ==================== -->
 
-<div  align="center" style="display: flex; justify-content: space-between; align-items: center;">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge"
-    alt="Profile Views"
-  />
-
-  <a href="https://github.com/hfdkr?tab=followers">
-    <img
-      src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=E94560&labelColor=1A1A2E"
-      alt="Followers"
-    />
-  </a>
-
-  <img
-    src="https://img.shields.io/badge/Repos-38-E94560?style=for-the-badge&labelColor=1A1A2E"
-    alt="Repositories"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E"
-    alt="Open to Front-End Internship"
-  />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge"
+        alt="Profile Views"
+      />
+    </td>
+    <td align="center">
+      <a href="https://github.com/hfdkr?tab=followers">
+        <img
+          src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=E94560&labelColor=1A1A2E"
+          alt="Followers"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/Repos-38-E94560?style=for-the-badge&labelColor=1A1A2E"
+        alt="Repositories"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E"
+        alt="Open to Front-End Internship"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
