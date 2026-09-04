@@ -20,18 +20,31 @@
   />
 
 </div>
-
-<br/>
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+<!-- ==================== BADGES ==================== -->
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img
+    src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge"
+    alt="Profile Views"
+  />
+
+  <a href="https://github.com/hfdkr?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/hfdkr?label=Followers&style=for-the-badge&color=E94560&labelColor=1A1A2E"
+      alt="Followers"
+    />
+  </a>
+
+  <img
+    src="https://img.shields.io/badge/Repos-38-E94560?style=for-the-badge&labelColor=1A1A2E"
+    alt="Repositories"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E"
+    alt="Open to Front-End Internship"
+  />
 
 </div>
 
@@ -142,6 +155,20 @@ const hafid = {
 
 <div align="center">
   <i>⭐ Thanks for stopping by — feel free to explore my repos and reach out!</i>
+</div>
+
+<br/>
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hfdkr/hfdkr/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+
 </div>
 
 <!-- ==================== FOOTER ==================== -->
