@@ -22,7 +22,7 @@
 </div>
 <!-- ==================== BADGES ==================== -->
 
-<div display="flex";align="center>
+<div display="flex";align="center";justify-content:"space-between">
 
   <img
     src="https://komarev.com/ghpvc/?username=hfdkr&label=Profile%20Views&color=E94560&style=for-the-badge"
