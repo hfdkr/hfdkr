@@ -126,16 +126,6 @@ const hafid = {
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hfdkr&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
----
-
 <!-- ==================== CURRENT FOCUS ==================== -->
 
 ## 🎯 Current Focus
