@@ -47,7 +47,7 @@
     <td align="center">
       <img
         src="https://img.shields.io/badge/Open%20to-Front--End%20Internship-E94560?style=for-the-badge&labelColor=1A1A2E"
-        alt="Open to Front-End Internship"
+        alt="Open to Full Stakc Internship"
       />
     </td>
   </tr>
