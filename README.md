@@ -115,14 +115,14 @@ const hafid = {
 <br/>
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=git,github,linux,powershell,vscode&theme=dark" />
 <br/>
 
 ### 🚀 Learning Next
 <img src="https://skillicons.dev/icons?i=react,nodejs,ts&theme=dark" />
 
 </div>
+
 
 ---
 
