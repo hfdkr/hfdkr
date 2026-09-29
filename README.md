@@ -4,7 +4,7 @@
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Hafid%20Karkouch&fontSize=52&fontColor=E94560&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Python&descSize=18&descAlignY=56&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:16213E,100:0F3460&height=230&section=header&text=Hafid%20&fontSize=52&fontColor=E94560&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20%7C%20UI%2FUX%20%7C%20Python&descSize=18&descAlignY=56&descAlign=50"
     alt="Hafid Karkouch"
   />
 
